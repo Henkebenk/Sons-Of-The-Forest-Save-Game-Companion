@@ -15,7 +15,7 @@
     
   Run the .jar file inside the folder and edit your savegame to your preference:)
 
-** Current work
+## Current work
   I appreciate any form of feedback on my work and I currently plan to add more functions to it, so keep the suggestions coming. Things i am/will be working on are:
   -Savable spawnpoints for you and your companions to teleport to
   -The ability to set the state of fallen trees/plants to that of a different save
