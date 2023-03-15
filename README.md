@@ -14,7 +14,20 @@
   C:\Users\USER\AppData\LocalLow\Endnight\SonsOfTheForest\Saves\76561198082060965\[Place .jar here]
     
   Run the .jar file inside the folder and edit your savegame to your preference:)
-    
+
+** Current work
+  I appreciate any form of feedback on my work and I currently plan to add more functions to it, so keep the suggestions coming. Things i am/will be working on are:
+  -Savable spawnpoints for you and your companions to teleport to
+  -The ability to set the state of fallen trees/plants to that of a different save
+  -Toggle the gps locator shown on the map
+  -Sort the saves based on the time of save
+  -Implement a filechooser so that you can place your .jar anywhere
+  -More logical save to changes made
+  -Backup files on save
+  
+## Known issues
+  Currently the changes being made are saved directly to the save files, meaning changes to items located in saveData.json takes a second or two. This is because the saveData grows in size as you progress through the game. (Mainly affects changes to companions).
+  
 ## Contributing
   If you would like to contribute to this project, please feel free to fork the repository and submit a pull request with your changes.
   
