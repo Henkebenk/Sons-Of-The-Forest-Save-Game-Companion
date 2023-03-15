@@ -7,6 +7,10 @@
   In order to use this program, you will need to have JDK 19 installed on your system. You can grab a copy of it from the following link: 
   https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html (Without this you will get a the error message "A Java exception has occured" when running the .jar file)
   
+## .jar VS .exe
+
+  If you have issues with the .jar version, grab the .exe version instead, place it in the same directory
+  
 ## Usage
   Download the SOTF-SGC.jar file from the repository.
   Place the .jar file in the same folder as your Singleplayer and Multiplayer folders are in the save folders directory. For example:
