@@ -3,7 +3,7 @@
   This program allows you to edit Sons of the Forest savefiles for different functions like regrowing trees or reviving companions.
 
 ## Prerequisites
-In order to use this program, you will need to have JDK 19 installed on your system. Which you can grab [here](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html) (Without this you will get a the error message "A Java exception has occured" when running the .jar file)
+In order to use this program, you will need to have JDK 19 installed on your system. Which you can grab [here](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html). (Without this you will get a the error message "A Java exception has occured" when running the .jar file)
   
 ## Features
 ### Player
@@ -27,15 +27,13 @@ In order to use this program, you will need to have JDK 19 installed on your sys
 * The ability to change game difficulty (Not fully implemented)
   
 ## .jar VS .exe
-  If you have issues with the .jar version, grab the .exe version instead, and place it in the same directory
+If you have issues with the .jar version, grab the .exe version instead, and place it in the same directory
   
 ## Usage
-  Download the SOTF-SGC.jar file from the repository.
-  Place the .jar file in the same folder as your Singleplayer and Multiplayer folders are in the save folders directory. For example:
-
-  C:\Users\USER\AppData\LocalLow\Endnight\SonsOfTheForest\Saves\76561198082060965\[Place .jar here]
-    
-  Run the .jar file inside the folder and edit your savegame to your preference:)
+1. Download the SOTF-SGC.jar file from the repository.
+2. Place the .jar file in the same folder as your Singleplayer and Multiplayer folders are in the save folders directory. For example: C: > Users > [User] > AppData > LocalLow > Endnight > Sons of the Forest > Saves > 76561198082060965 > [Place .jar here]
+3. Run the .jar file inside the folder and edit your savegame to your preference:)
+4. Load the save game in SOTF (Note that this process can be done while in game, but you still have to reload)
 
 ## Current work
 I appreciate any form of feedback on my work and I currently plan to add more functions to it, so keep the suggestions coming. Things i am/will be working on are:
@@ -47,7 +45,7 @@ I appreciate any form of feedback on my work and I currently plan to add more fu
 * Setting the difficulty seems to revert to earlier state when loading game 
   
 ## Contributing
-  If you would like to contribute to this project, please feel free to fork the repository and submit a pull request with your changes.
+If you would like to contribute to this project, please feel free to fork the repository and submit a pull request with your changes.
   
 ## Contact
-  If you have any questions or concerns about this program, please contact the author at henkeharshagen@gmail.com.
+If you have any questions or concerns about this program, please contact the author at henkeharshagen@gmail.com.
