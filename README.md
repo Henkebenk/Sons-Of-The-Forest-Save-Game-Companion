@@ -3,8 +3,7 @@
   This program allows you to edit Sons of the Forest savefiles for different functions like regrowing trees or reviving companions.
 
 ## Prerequisites
-  In order to use this program, you will need to have JDK 19 installed on your system. You can grab a copy of it from the following link: 
-  https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html (Without this you will get a the error message "A Java exception has occured" when running the .jar file)
+In order to use this program, you will need to have JDK 19 installed on your system. Which you can grab [here](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html) (Without this you will get a the error message "A Java exception has occured" when running the .jar file)
   
 ## Features
 ### Player
