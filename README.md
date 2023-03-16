@@ -3,13 +3,32 @@
   This program allows you to edit Sons of the Forest savefiles for different functions like regrowing trees or reviving companions.
 
 ## Prerequisites
-  **Newest version contains automatic backup function, yay!**
   In order to use this program, you will need to have JDK 19 installed on your system. You can grab a copy of it from the following link: 
   https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html (Without this you will get a the error message "A Java exception has occured" when running the .jar file)
   
-## .jar VS .exe
+## Features
+### Player
+* The ability to change stats such as Health, Energy and rest
+* Add/remove ammunition and throwables
 
-  If you have issues with the .jar version, grab the .exe version instead, place it in the same directory
+### Companions
+* The ability to change stats such as Health, Energy and Affection
+* Revive them if they have died
+* Teleport them to the player
+* Teleport them to each other
+* Show their inventory
+
+### Enviroment
+* The ability to regrow all trees and plants
+* Regrow only stumps that you left
+* Load the enviroment state from another save
+
+### Other
+* The menu (since Beta 1.0.4) has an automatic backup system, meaning it creates a backup of your save when pressing the "save changes" button 
+* The ability to change game difficulty (Not fully implemented)
+  
+## .jar VS .exe
+  If you have issues with the .jar version, grab the .exe version instead, and place it in the same directory
   
 ## Usage
   Download the SOTF-SGC.jar file from the repository.
@@ -20,17 +39,13 @@
   Run the .jar file inside the folder and edit your savegame to your preference:)
 
 ## Current work
-  I appreciate any form of feedback on my work and I currently plan to add more functions to it, so keep the suggestions coming. Things i am/will be working on are:
-  -Savable spawnpoints for you and your companions to teleport to
-  -The ability to set the state of fallen trees/plants to that of a different save
-  -Toggle the gps locator shown on the map
-  -Sort the saves based on the time of save
-  -Implement a filechooser so that you can place your .jar anywhere
-  -More logical save to changes made
-  -Backup files on save
+I appreciate any form of feedback on my work and I currently plan to add more functions to it, so keep the suggestions coming. Things i am/will be working on are:
+* Savable spawnpoints for you and your companions to teleport to
+* Toggle the gps locator shown on the map
+* Implement a filechooser so that you can place your .jar anywhere
   
 ## Known issues
-  Currently the changes being made are saved directly to the save files, meaning changes to items located in saveData.json takes a second or two. This is because the saveData grows in size as you progress through the game. (Mainly affects changes to companions).
+* Setting the difficulty seems to revert to earlier state when loading game 
   
 ## Contributing
   If you would like to contribute to this project, please feel free to fork the repository and submit a pull request with your changes.
