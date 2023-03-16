@@ -25,8 +25,8 @@ In order to use this program, you will need to have JDK 19 installed on your sys
 * The menu (since Beta 1.0.4) has an automatic backup system, meaning it creates a backup of your save when pressing the "save changes" button 
 * The ability to change game difficulty (Not fully implemented)
   
-## .jar VS .exe
-If you have issues with the .jar version, grab the .exe version instead, and place it in the same directory
+## .JAR or .EXE?
+If you have issues with the .jar version, grab the .exe version instead, and place it in the same directory.
   
 ## Usage
 1. Download the SOTF-SGC.jar file from the repository.
